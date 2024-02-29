@@ -1,0 +1,26 @@
+.list-item {
+  display: flex;
+  list-style-type: none;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  align-items: space-around;
+  justify-content: space-around;
+}
+
+.logo-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+
+.butn-element {
+  display: flex;
+  border-width: 0;
+  background-color: transparent;
+}
